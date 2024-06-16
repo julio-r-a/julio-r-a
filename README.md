@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I’m Julio Ramirez</h1>
 <h3 align="center">I’m Backend developer</h3>
 
-- 💬 Ask me about **Java, POO, FP, Spring Boot, Maven, MySQL, Git, Junit, Mockito, JiraMapStruct, Postman, Jenkins, Sonarqube**
+- 💬 Ask me about **Java, POO, FP, Spring Boot, Maven, MySQL, Git, Junit, Mockito, Jira, MapStruct, Postman, Jenkins, Sonarqube**
 
 - 📫 How to reach me **ramirez.arevalo5849@gmail.com**
 
