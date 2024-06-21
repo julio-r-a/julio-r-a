@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I’m Julio Ramirez</h1>
 <h3 align="center">I’m Backend developer</h3>
 
-- 💬 Ask me about **Java, POO, FP, Spring Boot, Maven, MySQL, Git, Junit, Mockito, Jira, MapStruct, Postman, Jenkins, Sonarqube**
+- 💬 Ask me about **Java, POO, FP, Spring Boot, Maven, MySQL, Git, Junit, Mockito, JiraMapStruct, Postman, Jenkins, Sonarqube**
 
 - 📫 How to reach me **ramirez.arevalo5849@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/julio-ramirez-649794219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julio ramirez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/julio-ramirez-649794219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/julio-ramirez-649794219" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
